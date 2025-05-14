@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+Chess_game/Chess-pieces/*.png  # si tu ne veux pas push les images
+.DS_Store
